@@ -1,41 +1,41 @@
 # mygos
 A list of Go frameworks, libraries and software of MY choice, like http://awesome-go.com/
 
-## Content
+# Content
 
-### Web Framework
+## Web Framework
 
 * [echo](https://github.com/labstack/echo)  A fast and unfancy micro web framework for Golang.
 	* [echo-contrib](https://github.com/echo-contrib)  Collection of echo middlewares.
 * [tango](https://github.com/lunny/tango)  Package tango is a micro & pluggable web framework for Go.
 	* [tango-contrib](https://github.com/tango-contrib) Collection of tango middlewares.
 
-#### Sessions
+### Sessions
 
 * [session](https://github.com/gorilla/sessions) gorilla/sessions provides cookie and filesystem sessions and infrastructure for custom session backends.
 	* [redistore](github.com/boj/redistore) Redis store sessions.
 
-#### CSRF
+### CSRF
 
 * [nosurf](https://github.com/justinas/nosurf) CSRF protection middleware for Go.
 * [csrfbanana](https://github.com/josephspurrier/csrfbanana) Golang CSRF Protection for gorilla/sessions.
 
-### ORM
+## ORM
 
 * [gorm](https://github.com/jinzhu/gorm) The fantastic ORM library for Golang, aims to be developer friendly.
 
-### Database Drivers
+## Database Drivers
 
-#### Relational Databases
+### Relational Databases
 * [mysql](https://github.com/go-sql-driver/mysql) Mysql database driver for go.
 
-#### NoSQL Databases
+### NoSQL Databases
 
 * [memcached](https://github.com/rainycape/memcache) High performance memcache client in Go (golang).
 * [redigo](https://github.com/garyburd/redigo) Redigo is a Go client for the Redis database.
 * [redis](https://github.com/go-redis/redis) Redis client for Golang. 
 
-### Utilities
+## Utilities
 
 * [goreq](https://github.com/franela/goreq) Minimal and simple request library for Go language.
 * [go-dry](https://github.com/ungerik/go-dry) DRY (don't repeat yourself) package for Go.
