@@ -41,3 +41,4 @@ A list of Go frameworks, libraries and software of MY choice, like http://awesom
 * [go-dry](https://github.com/ungerik/go-dry) DRY (don't repeat yourself) package for Go.
 * [sortutil](https://github.com/cznic/sortutil) Utilities supplemental to the Go standard "sort" package.
 * [gods](https://github.com/emirpasic/gods) Go Data Structures. Tags: Containers, Sets, Lists, Stacks, Maps, Trees, HashSet, TreeSet, ArrayList, SinglyLinkedList, DoublyLinkedList, LinkedListStack, ArrayStack, HashMap, TreeMap, RedBlackTree, BinaryHeap, Comparator, Sort.
+* [fmtdate](https://github.com/metakeule/fmtdate) MS Excel (TM) syntax for Go time/date.
