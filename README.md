@@ -43,3 +43,4 @@ A list of Go frameworks, libraries and software of MY choice, like http://awesom
 * [gods](https://github.com/emirpasic/gods) Go Data Structures. Tags: Containers, Sets, Lists, Stacks, Maps, Trees, HashSet, TreeSet, ArrayList, SinglyLinkedList, DoublyLinkedList, LinkedListStack, ArrayStack, HashMap, TreeMap, RedBlackTree, BinaryHeap, Comparator, Sort.
 * [fmtdate](https://github.com/metakeule/fmtdate) MS Excel (TM) syntax for Go time/date.
 * [ffjson](https://github.com/pquerna/ffjson) faster JSON serialization for Go.
+* [timeutil](https://github.com/leekchan/timeutil) useful extensions (Timedelta, Strftime, ...) to the golang's time package.
