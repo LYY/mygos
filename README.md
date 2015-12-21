@@ -45,3 +45,4 @@ A list of Go frameworks, libraries and software of MY choice, like http://awesom
 * [ffjson](https://github.com/pquerna/ffjson) faster JSON serialization for Go.
 * [timeutil](https://github.com/leekchan/timeutil) useful extensions (Timedelta, Strftime, ...) to the golang's time package.
 * [inflections](https://github.com/acsellers/inflections) A similar set of functionality to ActiveSupport's Inflections methods. Could be useful in building an interface to a Rails managed database schema.
+* [logrus](https://github.com/Sirupsen/logrus) Structured, pluggable logging for Go.
