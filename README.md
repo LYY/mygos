@@ -35,6 +35,10 @@ A list of Go frameworks, libraries and software of MY choice, like http://awesom
 * [redigo](https://github.com/garyburd/redigo) Redigo is a Go client for the Redis database.
 * [redis](https://github.com/go-redis/redis) Redis client for Golang. 
 
+### Caches
+
+* [groupcache](https://github.com/golang/groupcache) groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
+
 ### Utilities
 
 * [goreq](https://github.com/franela/goreq) Minimal and simple request library for Go language.
