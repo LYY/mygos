@@ -54,3 +54,6 @@ A list of Go frameworks, libraries and software of MY choice, like http://awesom
 
 ### Crawler
 * [pholcus](https://github.com/henrylee2cn/pholcus) [Crawler framework (golang)] Pholcus is pure golang crawler software, use single/server/client mods with web GUI support. Chinese Wiki.
+
+### Doc tools
+* [go-swagger] (https://github.com/go-swagger/go-swagger) Swagger 2.0 implementation for go https://goswagger.io.
