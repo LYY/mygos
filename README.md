@@ -51,9 +51,10 @@ A list of Go frameworks, libraries and software of MY choice, like http://awesom
 * [inflections](https://github.com/acsellers/inflections) A similar set of functionality to ActiveSupport's Inflections methods. Could be useful in building an interface to a Rails managed database schema.
 * [logrus](https://github.com/Sirupsen/logrus) Structured, pluggable logging for Go.
 * [goquery](https://github.com/PuerkitoBio/goquery) A little like that j-thing, only in Go.
+* [go-flags](https://github.com/jessevdk/go-flags) Go command line option parser, provides much more functionality and nicer formatting then the builtin flag library of go.
 
 ### Crawler
 * [pholcus](https://github.com/henrylee2cn/pholcus) [Crawler framework (golang)] Pholcus is pure golang crawler software, use single/server/client mods with web GUI support. Chinese Wiki.
 
 ### Doc tools
-* [go-swagger] (https://github.com/go-swagger/go-swagger) Swagger 2.0 implementation for go https://goswagger.io.
+* [go-swagger] (https://github.com/go-swagger/go-swagger) Swagger 2.0 implementation for go [https://goswagger.io]().
