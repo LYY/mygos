@@ -23,6 +23,7 @@ A list of Go frameworks, libraries and software of MY choice, like http://awesom
 ### ORM
 
 * [gorm](https://github.com/jinzhu/gorm) The fantastic ORM library for Golang, aims to be developer friendly.
+* [go-pg](https://github.com/go-pg/pg) Fast PostgreSQL client and ORM for Golang.
 
 ### Database Drivers
 
