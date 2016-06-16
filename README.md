@@ -7,7 +7,7 @@ A list of Go frameworks, libraries and software of **MY** choice, like http://aw
 
 * [echo](https://github.com/labstack/echo)  A fast and unfancy micro web framework for Golang.
 	* [echo-contrib](https://github.com/echo-contrib)  Collection of echo middlewares.
-* [iris](https://github.com/kataras/iris) Fast, unopinionated, minimalist web framework for Go. Built on top of fasthttp, up to 20x faster than the rest. [http://iris-go.com]().
+* [iris](https://github.com/kataras/iris) Fast, unopinionated, minimalist web framework for Go. Built on top of fasthttp, up to 20x faster than the rest. [http://iris-go.com](http://iris-go.com).
 * [tango](https://github.com/lunny/tango)  Package tango is a micro & pluggable web framework for Go.
 	* [tango-contrib](https://github.com/tango-contrib) Collection of tango middlewares.
 
