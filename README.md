@@ -56,6 +56,7 @@ A list of Go frameworks, libraries and software of **MY** choice, like http://aw
 * [go-flags](https://github.com/jessevdk/go-flags) Go command line option parser, provides much more functionality and nicer formatting then the builtin flag library of go.
 * [go-simplejson](https://github.com/bitly/go-simplejson) a Go package to interact with arbitrary JSON.
 * [easyjson](https://github.com/mailru/easyjson) Fast JSON serializer for golang.
+* [gopsutil](https://github.com/shirou/gopsutil) psutil for golang.
 
 ### Crawlers
 * [pholcus](https://github.com/henrylee2cn/pholcus) [Crawler framework (golang)] Pholcus is pure golang crawler software, use single/server/client mods with web GUI support. Chinese Wiki.
