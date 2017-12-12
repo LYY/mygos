@@ -187,6 +187,7 @@ A list of Go frameworks, libraries and software of **MY** choice, like <http://a
 * [glycerine/offheap](https://github.com/glycerine/offheap) An off-heap hash-table in Go. Used to be called go-offheap-hashtable, but we shortened it.
 * [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) SeaweedFS is a simple and highly scalable distributed file system.
 * [gogo/protobuf](https://github.com/gogo/protobuf) Protocol Buffers for Go with Gadgets.
+* [sony/gobreaker](https://github.com/sony/gobreaker) Circuit Breaker implemented in Go.
 
 ### Crawlers
 
