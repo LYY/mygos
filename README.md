@@ -188,6 +188,8 @@ A list of Go frameworks, libraries and software of **MY** choice, like <http://a
 * [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) SeaweedFS is a simple and highly scalable distributed file system.
 * [gogo/protobuf](https://github.com/gogo/protobuf) Protocol Buffers for Go with Gadgets.
 * [sony/gobreaker](https://github.com/sony/gobreaker) Circuit Breaker implemented in Go.
+* [thoas/go-funk](https://github.com/thoas/go-funk) A modern Go utility library which provides helpers (map, find, contains, filter, ...).
+* [viant/toolbox](https://github.com/viant/toolbox) Toolbox - go utility library.
 
 ### Crawlers
 
