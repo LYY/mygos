@@ -9,8 +9,6 @@ A list of Go frameworks, libraries and software of **MY** choice, like <http://a
 * [labstack/echo](https://github.com/labstack/echo)  A fast and unfancy micro web framework for Golang.
     * [LYY/echo-middleware](https://github.com/LYY/echo-middleware)  My own collection of echo middlewares.
 * [kataras/iris](https://github.com/kataras/iris) Fast, unopinionated, minimalist web framework for Go. Built on top of fasthttp, up to 20x faster than the rest. [http://iris-go.com](http://iris-go.com).
-* [lunny/tango](https://github.com/lunny/tango)  Package tango is a micro & pluggable web framework for Go.
-	* [tango-contrib](https://github.com/tango-contrib) Collection of tango middlewares.
 * [go-chi/chi](https://github.com/go-chi/chi) Lightweight, idiomatic and composable router for building Go HTTP services.
 
 #### Sessions
@@ -54,6 +52,8 @@ A list of Go frameworks, libraries and software of **MY** choice, like <http://a
 ### Microservice
 
 * [go-kit/kit](https://github.com/go-kit/kit) A standard library for microservices.
+	* [tuneinc/truss](https://github.com/tuneinc/truss) Truss helps you build go-kit microservices without having to worry about writing or maintaining boilerplate code. 
+	* [kujtimiihoxha/kit](https://github.com/kujtimiihoxha/kit) GoKit CLI.
 
 ### Database
 
